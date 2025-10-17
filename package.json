@@ -1,0 +1,17 @@
+{
+  "name": "repo-finder",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^6.3.5"
+  },
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.89.2"
+  }
+}
