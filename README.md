@@ -3,7 +3,8 @@
 ## [🌟Live Link🌟](https://ah-fayyad.github.io/Repo-Finder/)
 
 
-# If you want to search for any Repo on GitHub
+
+If you want to search for any Repo on GitHub
 
 ## Contact
 - [Email](ahfayyad.m@gmail.com)
